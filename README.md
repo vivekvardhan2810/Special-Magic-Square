@@ -1,4 +1,6 @@
-Magic Square Game
+<a name="top"></a>
+
+# Magic Square Game
 
 # Overview
 
@@ -15,3 +17,35 @@ The Magic Square Game is an interactive puzzle where the player must arrange num
 - **Scorekeeping**: Start with a score of 100 points, and lose points for each hint you use.
 
 - **Hints**: Need a little help? Use the hint feature to get guidance, but beware—it will cost you points!
+
+## How to Play
+
+- **Start the Game**: Select your desired grid size (3x3, 4x4, or 5x5) and click the "Start Game" button to generate the grid.
+  
+- **Arrange the Numbers**: Fill the grid with numbers from 1 to n^2 (where n is the grid size) in such a way that the sum of numbers in each row, column, and diagonal equals the magic constant.
+  
+- **Check Your Work**: Once you think you've solved the puzzle, click the "Check" button to see if you've created a valid magic square.
+  
+- **Use Hints**: If you're stuck, click the "Hint" button for assistance (note that this will reduce your score).
+  
+- **Watch the Clock**: The timer will start as soon as you begin and will stop once you've successfully completed the magic square.
+
+## Installation
+
+To run this game locally, follow these steps:
+
+1. **Clone the Repository**:
+
+   ```
+   $ git clone https://github.com/your-username/magic-square-game.git
+   ```
+
+2. **Navigate to the Project Directory**:
+
+```
+$ cd magic-square-game
+```
+
+3. **Open 'index.html' in Your Browser**:
+
+   Simply double-click the index.html file or open it in your preferred web browser.
