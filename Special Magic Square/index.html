@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Magic Square Game</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <!-- Toggle Button -->
+    <div class="toggle-container">
+        <input type="checkbox" id="mode-toggle" class="toggle-checkbox">
+        <label for="mode-toggle" class="toggle-label">
+            <span class="toggle-button"></span>
+        </label>
+    </div>
+
+    <div class="container">
+        <h1>Magic Square Game</h1>
+
+        <div id="grid-size">
+            <label for="size">Choose Grid Size:</label>
+            <select id="size">
+                <option value="3">3x3</option>
+                <option value="4">4x4</option>
+                <option value="5">5x5</option>
+            </select>
+            <button id="startButton">Start Game</button>
+        </div>
+
+        <table id="grid"></table>
+
+        <div id="controls">
+            <button id="checkButton">Check</button>
+            <button id="hintButton">Hint</button>
+        </div>
+
+        <div id="message"></div>
+        <div id="score"></div>
+        <div id="timer"></div>
+    </div>
+
+    <script src="script.js"></script>
+
+</body>
+</html>
