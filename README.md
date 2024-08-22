@@ -48,4 +48,34 @@ $ cd magic-square-game
 
 3. **Open 'index.html' in Your Browser**:
 
-   Simply double-click the index.html file or open it in your preferred web browser.
+   Simply double-click the **'index.html'** file or open it in your preferred web browser.
+
+## Files Included
+
+- **'index.html'**: The main HTML file containing the game structure.
+
+- **'style.css'**: The CSS file containing styles for light/dark mode and overall UI design.
+
+- **'script.js'**: The JavaScript file containing the game logic and event handling.
+
+## Customization
+
+You can customize the game by modifying the following:
+
+- **Grid Sizes**: Add or remove options for grid sizes in the **'index.html'** file.
+
+- **Lighting Patterns**: Add new animations to the **'style.css'** file for additional lighting effects.
+
+- **Game Logic**: Modify the scoring system, hint mechanics, or add new game modes in the **'script.js'** file.
+
+## Contributions
+
+Contributions are welcome! Please fork this repository, Create An Issue and submit a pull request if you have any improvements or new features to add.
+
+## License
+
+This project is licensed under the MIT License. See the LICENSE file for more details.
+
+## Contact
+
+For any questions or suggestions, feel free to contact me at vivekvardhan43862@gmail.com.
