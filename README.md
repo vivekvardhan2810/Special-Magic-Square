@@ -74,7 +74,7 @@ Contributions are welcome! Please fork this repository, Create An Issue and subm
 
 ## License
 
-This project is licensed under the MIT License. See the LICENSE file for more details.
+This project is licensed under the MIT License. See the **'LICENSE'** file for more details.
 
 ## Contact
 
